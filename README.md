@@ -10,7 +10,7 @@
 
 **Gameplay Video:** [INSERT YOUTUBE/VIMEO URL HERE]
 
-**GitHub Repository:** [(https://github.com/acc668/IMG421-Assignment-5/tree/main)]
+**GitHub Repository:** [https://github.com/acc668/IMG421-Assignment-5/tree/main]
 
 ---
 
